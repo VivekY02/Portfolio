@@ -1,0 +1,45 @@
+.hero{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    margin-right: 50px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+    
+}
+.Text a{
+    color: black;
+    
+    font-size: 45px;
+    text-decoration: none;
+}
+.Text{
+    width: 750px;
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color:white ;
+    color: dodgerblue;
+    font-size: 16px;
+}
+.Text:hover{
+    width: 750px;
+    padding-top: 50px;
+    padding-left: 40px;
+    background-color:rgb(100, 170, 239) ;
+    color:white;
+    font-size: 16px;
+}
+.subtext{
+    padding-top: 40px;
+    
+}
+.image{
+    width: 650px;
+}
+.pic{
+   width: 500px;
+   
+    
+}
